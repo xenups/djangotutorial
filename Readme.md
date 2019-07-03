@@ -29,6 +29,10 @@ pip install -r requirements.txt
  and in the last step runserver :
  python manage.py runserver 
  
+ for cleaning the AccessAttempts table  you can use:
+  python manage.py cleanup_django_defender
+  
+  
   you can see defender in the admin panel 
  section that shows the Access attempts	, which  can track
  your login attempts 
