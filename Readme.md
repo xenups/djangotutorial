@@ -40,7 +40,7 @@ pip install -r requirements.txt
   DEFENDER_ACCESS_ATTEMPT_EXPIRATION =1  #one hours
   
   in this case without considering username if an ip failed 
-  to login in 3 times it will block the ip
+  to login in 3 times it will be block
   
   
   Why not django-axes?
