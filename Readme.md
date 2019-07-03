@@ -1,7 +1,9 @@
 this package need  python 3.7
 using django 2.2.3
 
-if you are not using pycharm , create a new venv by :
+if you are not using pycharm , 
+create a new venv by :
+
 first install python3-venv : 
 
 sudo apt install python3.7 python3-venv python3.7-venv
