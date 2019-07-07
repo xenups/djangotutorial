@@ -1,3 +1,8 @@
+
+### if want to see how login attempts work at all
+### you can see mine implemantation in this link too https://github.com/xenups/ddefender
+
+
 this package need  python 3.7
 using django 2.2.3
 
